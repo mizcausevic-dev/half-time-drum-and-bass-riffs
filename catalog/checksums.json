@@ -1,0 +1,450 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1939,
+      "sha256": "57921f6d1e8a5affa84f8f05667c59e2f98637e5e83dd8b524661a99e4182b01"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 170651,
+      "sha256": "0e80479580a89580d85c094223b82fd1d34f292f207cb6bc3e62469904e2cb7e"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 1933484,
+      "sha256": "23da4ac1ec0e5ff5c56b41a012905da6268bf578010c22ab25ccd20392a08bec"
+    },
+    {
+      "path": "art/image-prompt.txt",
+      "bytes": 301,
+      "sha256": "9b31049b88c051800936b737f6e104c881de8a441012c9a73c928f5a4c4a57f0"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 500,
+      "sha256": "b041d0828a3cb4cb0c865534c7b293d6291ed0e783cb440900f3abf1c7bb08bb"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 196459,
+      "sha256": "1937f2920531275b7f9bde17b340071be350eb4f4abd39f1be6340e501ea638d"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 766,
+      "sha256": "bf084600538d332673f4b0267d6955bf1370f95f0d0f0828ce8a2535c40518fc"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 766,
+      "sha256": "bf084600538d332673f4b0267d6955bf1370f95f0d0f0828ce8a2535c40518fc"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 1939,
+      "sha256": "5b7a1bb5c1d28e2569bcb59a4125129e354e591e78436322b91406c336cf9e01"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 25750,
+      "sha256": "d88b72e4325a39af9650c0bd885464791f033379dad7dae60ed47e1aa6a6006a"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 99093,
+      "sha256": "4b95e5c49d49c5351942e36098fae03b32cbe2eecda4e0a2f8bacffb3b4feeac"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1810,
+      "sha256": "80584fcd3db787802c3797409f4da4ac3b7179ec449a2829b7d85b2b349a6727"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2547,
+      "sha256": "9bd097aa354b4d3e18b07b5f91bbed05a5f6798cb31f761691c2eab42ba29522"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 816,
+      "sha256": "3da1e4f0f56b1f56cd9ca8eb0ed18bb149865e957ebec5226f16159882b7d95d"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 1281,
+      "sha256": "79a25731f7a4940fce950d9053ea7c59e56717cc2c731303a23b6d6b3ec674b7"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 397,
+      "sha256": "ad96b9d44bd2ee5a1c17d8497ab4990cee223adad0df7cb2f11f0bc611641cf8"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "1adb4bb51925d9b895986928168c8b3fd82784612d9e14d54ba58d7f43d9cd9a"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 462,
+      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+    },
+    {
+      "path": "clips/z4401-bass-hook-01.mid",
+      "bytes": 151,
+      "sha256": "7b72a2085725ad463f8e032c9f78ef18ed0eed875af1992923a30ad502da0d60"
+    },
+    {
+      "path": "clips/z4401-bass-hook-02.mid",
+      "bytes": 150,
+      "sha256": "c0b6ffcfcec949cdd0f1a366f129709e5be2fc47cb37bf59b13c1e2756739cba"
+    },
+    {
+      "path": "clips/z4401-bass-hook-03.mid",
+      "bytes": 151,
+      "sha256": "47ae8a6eabb71751153aa8748c5447d0e2298ee8dc61bc19f40c377a53c34419"
+    },
+    {
+      "path": "clips/z4401-bass-hook-04.mid",
+      "bytes": 150,
+      "sha256": "d208a0cdfdeb4813e9b92ecfcabff8968d0badbe4f7587a191dd8f8ea8de2ca2"
+    },
+    {
+      "path": "clips/z4402-bass-hook-01.mid",
+      "bytes": 141,
+      "sha256": "f02285dabfa67e069899e7fe3a35e29bd34f2b19f503bd731325a7b3ef475441"
+    },
+    {
+      "path": "clips/z4402-bass-hook-02.mid",
+      "bytes": 142,
+      "sha256": "606412c569edaf8987eb2efd135a4ea12eab43be08e701e79f9f4ad8fd541992"
+    },
+    {
+      "path": "clips/z4402-bass-hook-03.mid",
+      "bytes": 142,
+      "sha256": "4377140b2efbb6075c735553e83e4116af5de028609c28b9ef214f6be0fc6ebe"
+    },
+    {
+      "path": "clips/z4402-bass-hook-04.mid",
+      "bytes": 150,
+      "sha256": "1c78847b31ee6531a1c64402a83fbe228ee3fd84edca152e192cdc3d9aecbb36"
+    },
+    {
+      "path": "clips/z4403-bass-hook-01.mid",
+      "bytes": 141,
+      "sha256": "ee93ec325d6df7c976bec4cf8956d52b2c2cfff2b7e34db4ed59d61b55f3c3e6"
+    },
+    {
+      "path": "clips/z4403-bass-hook-02.mid",
+      "bytes": 142,
+      "sha256": "a168be7578f0ce0418dff7d2bb64741a7be800c9ac15723d2208694c11342d9f"
+    },
+    {
+      "path": "clips/z4403-bass-hook-03.mid",
+      "bytes": 142,
+      "sha256": "e3bcd7b9781aaafa158850343a628b2067bfecf7e285bcc8afe58cdad68b9212"
+    },
+    {
+      "path": "clips/z4403-bass-hook-04.mid",
+      "bytes": 149,
+      "sha256": "f70f8aaeee894f522ad82bdc2de88abc7d9ae9d9b0e5fae2b0c43efcb1d491d0"
+    },
+    {
+      "path": "clips/z4404-bass-hook-01.mid",
+      "bytes": 142,
+      "sha256": "c844641aa87d0bc7aa97e0afe8f49f39b92f09764db2f97e5dff0aadbc3dad68"
+    },
+    {
+      "path": "clips/z4404-bass-hook-02.mid",
+      "bytes": 142,
+      "sha256": "180e5643b99f4b12a4afb6184a30a52fb590bf61047257f737ae64b0f110dde2"
+    },
+    {
+      "path": "clips/z4404-bass-hook-03.mid",
+      "bytes": 142,
+      "sha256": "100f2f0d9da5ec87cbc0fc3f5cb427d9a486ed3f074f15db12c38531852ba3f7"
+    },
+    {
+      "path": "clips/z4404-bass-hook-04.mid",
+      "bytes": 149,
+      "sha256": "062fd8d3fb88bbe865f763193fa06cd4116a3d1eb223e6546dfa20fdb3201442"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 451,
+      "sha256": "10fb153c8830566e8ec1cd12950a35973de83ed2c68e764f62d9de3df2357ee8"
+    },
+    {
+      "path": "downloads/half-time-drum-and-bass-riffs-midi.zip",
+      "bytes": 31806,
+      "sha256": "61e7b290a4019ac8039934da5091e8c46a1ce79b1a69070c8b2d6150a896175b"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 3000,
+      "sha256": "295d8d379d9b4a3dfaddac2b641e40f22b60c1c3d023307c5f7ccc75162ad742"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 33395,
+      "sha256": "832ea3b639e4cf743f42f9ae9937303e110c68e6c7ed494d94670f4432c1a55b"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 161628,
+      "sha256": "8d7d661c27eed04a34f5b008aea142c3756dcd8d9a9401a126fd708fb4503426"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 854905,
+      "sha256": "92f8cdf25b1a58c225514c230aaf807710125f8f59684d3a0e434a5cb18a6e0b"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 1250,
+      "sha256": "9bad201e453a370dd3d2d1e15a700512d57f051128b60f594b47f7afb34d8fbc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10140,
+      "sha256": "160024429e3e114804d24b234c8d8788ef345a260f79f33e32ba354d7712f8d8"
+    },
+    {
+      "path": "midi/z4401-half-time-drum-and-bass-riffs-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "0c56108376271e30588a8539e5b9df0a60a6a0e19c77ecac32f2445509238ac1"
+    },
+    {
+      "path": "midi/z4401-half-time-drum-and-bass-riffs-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "87e3470cc5cccd19e25b477f160c5f959ada5d396c2a785cd95ff900860fb920"
+    },
+    {
+      "path": "midi/z4401-half-time-drum-and-bass-riffs-opening/drums.mid",
+      "bytes": 2674,
+      "sha256": "8d5021ff590e39a02a543a986c853ffba9f419fe990ddf793023732be3315cc0"
+    },
+    {
+      "path": "midi/z4401-half-time-drum-and-bass-riffs-opening/principal_motif.mid",
+      "bytes": 778,
+      "sha256": "3676324a8959f029e0890b06705fceae8fc5e26d69140858d473dd3ad851e81e"
+    },
+    {
+      "path": "midi/z4401-half-time-drum-and-bass-riffs-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "0e50ca3059049e3a2d598227b1735e311b35231e6099c742fb5a196042f533a5"
+    },
+    {
+      "path": "midi/z4401-half-time-drum-and-bass-riffs-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "f8bda04a283d40b00de3f3a6f663d65c4261167ea922a980e98fdbaf695339a1"
+    },
+    {
+      "path": "midi/z4401-half-time-drum-and-bass-riffs-opening/z4401-half-time-drum-and-bass-riffs-opening-combined.mid",
+      "bytes": 5688,
+      "sha256": "2d61ce488dd2a4a5e92d5a8fbb285ddd8b950526c50d36ebf359c26869dac2ba"
+    },
+    {
+      "path": "midi/z4402-half-time-drum-and-bass-riffs-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "bb2a211eab8789f970b7bb67fbcfe5e3b1ffca52d7fa79fe18a7ed94e991d517"
+    },
+    {
+      "path": "midi/z4402-half-time-drum-and-bass-riffs-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "d0fa321b6bb943edcd7202ee27a941d106b1fce64764fea2edc8df1d3ca63190"
+    },
+    {
+      "path": "midi/z4402-half-time-drum-and-bass-riffs-variation/drums.mid",
+      "bytes": 2674,
+      "sha256": "8d5021ff590e39a02a543a986c853ffba9f419fe990ddf793023732be3315cc0"
+    },
+    {
+      "path": "midi/z4402-half-time-drum-and-bass-riffs-variation/principal_motif.mid",
+      "bytes": 778,
+      "sha256": "98da54e30c65c0888e4655caaa0f0304ab2cc7e66f62915d2adf22baa410eee4"
+    },
+    {
+      "path": "midi/z4402-half-time-drum-and-bass-riffs-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "91c4033a4991a4796a5294208fd7880190ae995e83a99d8abe19a975f515591c"
+    },
+    {
+      "path": "midi/z4402-half-time-drum-and-bass-riffs-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "f2ba2e3a13160810c20845aa5269a801598bd9254732b861bbdfb2cb80069acb"
+    },
+    {
+      "path": "midi/z4402-half-time-drum-and-bass-riffs-variation/z4402-half-time-drum-and-bass-riffs-variation-combined.mid",
+      "bytes": 5688,
+      "sha256": "a32a44dece37839c092e41ea6f579aa1c30098b1c4b15332501baf748cb34f52"
+    },
+    {
+      "path": "midi/z4403-half-time-drum-and-bass-riffs-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "eaa9721568edd92ea0b048aa2179f3e197b22759e8200159706f6921c2d29424"
+    },
+    {
+      "path": "midi/z4403-half-time-drum-and-bass-riffs-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "1be8ed4435c41ca66f5cd19f60b58e086e3368f9b23d0ebbf8704efd487c4da6"
+    },
+    {
+      "path": "midi/z4403-half-time-drum-and-bass-riffs-contrast/drums.mid",
+      "bytes": 2674,
+      "sha256": "8d5021ff590e39a02a543a986c853ffba9f419fe990ddf793023732be3315cc0"
+    },
+    {
+      "path": "midi/z4403-half-time-drum-and-bass-riffs-contrast/principal_motif.mid",
+      "bytes": 748,
+      "sha256": "ca809f20cb6e99125fc896cfbb5e1a56343459bf49b13577918938bd2af7679c"
+    },
+    {
+      "path": "midi/z4403-half-time-drum-and-bass-riffs-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "8e51e1f6479b3659d7f03cdff713e3860f609cc10c1073a179ad5f8b34cc97f0"
+    },
+    {
+      "path": "midi/z4403-half-time-drum-and-bass-riffs-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "95e52c119ce91810274b2718e27b9873e3150c089df3c046e684b4c12f4f2680"
+    },
+    {
+      "path": "midi/z4403-half-time-drum-and-bass-riffs-contrast/z4403-half-time-drum-and-bass-riffs-contrast-combined.mid",
+      "bytes": 5658,
+      "sha256": "cbd9d84c7f34c19b73d109d37f5d779692faf37517e2e2087b9a2d6b514323fc"
+    },
+    {
+      "path": "midi/z4404-half-time-drum-and-bass-riffs-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "c09081ffeb44936c4b9842324c0ba074a7c980209647311688f88ecd7456a81c"
+    },
+    {
+      "path": "midi/z4404-half-time-drum-and-bass-riffs-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "127c95823671046f15b86420f81be500429be0f612be7ce998cde869e2781e8e"
+    },
+    {
+      "path": "midi/z4404-half-time-drum-and-bass-riffs-return/drums.mid",
+      "bytes": 2674,
+      "sha256": "8d5021ff590e39a02a543a986c853ffba9f419fe990ddf793023732be3315cc0"
+    },
+    {
+      "path": "midi/z4404-half-time-drum-and-bass-riffs-return/principal_motif.mid",
+      "bytes": 748,
+      "sha256": "4df468500c094c2182c7321d2fad9b13546514801748d7793b2e92991baac997"
+    },
+    {
+      "path": "midi/z4404-half-time-drum-and-bass-riffs-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "fb4463ee6c2a3a3f999c0e5faaaa2eeb61632eb7ac824690af89f5cfcba5e8a1"
+    },
+    {
+      "path": "midi/z4404-half-time-drum-and-bass-riffs-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "b9834ba5d973d2c46c9a7d722355e51bcec746534224ee850d78297bd8f4291b"
+    },
+    {
+      "path": "midi/z4404-half-time-drum-and-bass-riffs-return/z4404-half-time-drum-and-bass-riffs-return-combined.mid",
+      "bytes": 5658,
+      "sha256": "3c1fd92400c32c430e5602bef2e741c62d1adce1871fe9fa3249123cb6d955d3"
+    },
+    {
+      "path": "preview/half-time-drum-and-bass-riffs-simple-synth-preview.mp3",
+      "bytes": 1072736,
+      "sha256": "86f64196a7b2f8377a38a462fb4b3391b97875276a1a461ccba373dd07300543"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1197,
+      "sha256": "6b5c32092a10c704d5a4f53be9297eaad05bd8541b4c299317224638e452f55f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4027,
+      "sha256": "f87229088546bdc626aaa0fe917295b439e8cc9fe4ba997f95a360d440625cca"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 232,
+      "sha256": "fbb67d97c4c2e088f9babbfc71da6b66c10aa672c26077cf9f0a4db0f29d3ac2"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 201305,
+      "sha256": "644fe86486048c330934a1d42b9ffab2929595c85988aa4f46e65e01acdf6f51"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 176850,
+      "sha256": "db72592eee6010c9445f79219df6a3b0b2d2cf41ccba76ce9062270b871020d9"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 153120,
+      "sha256": "43bc7f9fd6a302afc4a876613c0bd750d5afd0103de5136e3aa401b01c4c58b8"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 194,
+      "sha256": "f4c93db6684b2096ccb7896fcb7d97cd5a448502f5c1625ba003bd1c19645db9"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 147457,
+      "sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 13319,
+      "sha256": "316295dc959d1ee22bb4bef6fe0d6ec5f541cff4888de8f9bcb04170855f976c"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}

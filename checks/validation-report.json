@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:15.983921+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z4401-half-time-drum-and-bass-riffs-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "0c56108376271e30588a8539e5b9df0a60a6a0e19c77ecac32f2445509238ac1",
+      "errors": []
+    },
+    {
+      "path": "midi/z4401-half-time-drum-and-bass-riffs-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "87e3470cc5cccd19e25b477f160c5f959ada5d396c2a785cd95ff900860fb920",
+      "errors": []
+    },
+    {
+      "path": "midi/z4401-half-time-drum-and-bass-riffs-opening/drums.mid",
+      "bytes": 2674,
+      "sha256": "8d5021ff590e39a02a543a986c853ffba9f419fe990ddf793023732be3315cc0",
+      "errors": []
+    },
+    {
+      "path": "midi/z4401-half-time-drum-and-bass-riffs-opening/principal_motif.mid",
+      "bytes": 778,
+      "sha256": "3676324a8959f029e0890b06705fceae8fc5e26d69140858d473dd3ad851e81e",
+      "errors": []
+    },
+    {
+      "path": "midi/z4401-half-time-drum-and-bass-riffs-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "0e50ca3059049e3a2d598227b1735e311b35231e6099c742fb5a196042f533a5",
+      "errors": []
+    },
+    {
+      "path": "midi/z4401-half-time-drum-and-bass-riffs-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "f8bda04a283d40b00de3f3a6f663d65c4261167ea922a980e98fdbaf695339a1",
+      "errors": []
+    },
+    {
+      "path": "midi/z4401-half-time-drum-and-bass-riffs-opening/z4401-half-time-drum-and-bass-riffs-opening-combined.mid",
+      "bytes": 5688,
+      "sha256": "2d61ce488dd2a4a5e92d5a8fbb285ddd8b950526c50d36ebf359c26869dac2ba",
+      "errors": []
+    },
+    {
+      "path": "midi/z4402-half-time-drum-and-bass-riffs-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "bb2a211eab8789f970b7bb67fbcfe5e3b1ffca52d7fa79fe18a7ed94e991d517",
+      "errors": []
+    },
+    {
+      "path": "midi/z4402-half-time-drum-and-bass-riffs-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "d0fa321b6bb943edcd7202ee27a941d106b1fce64764fea2edc8df1d3ca63190",
+      "errors": []
+    },
+    {
+      "path": "midi/z4402-half-time-drum-and-bass-riffs-variation/drums.mid",
+      "bytes": 2674,
+      "sha256": "8d5021ff590e39a02a543a986c853ffba9f419fe990ddf793023732be3315cc0",
+      "errors": []
+    },
+    {
+      "path": "midi/z4402-half-time-drum-and-bass-riffs-variation/principal_motif.mid",
+      "bytes": 778,
+      "sha256": "98da54e30c65c0888e4655caaa0f0304ab2cc7e66f62915d2adf22baa410eee4",
+      "errors": []
+    },
+    {
+      "path": "midi/z4402-half-time-drum-and-bass-riffs-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "91c4033a4991a4796a5294208fd7880190ae995e83a99d8abe19a975f515591c",
+      "errors": []
+    },
+    {
+      "path": "midi/z4402-half-time-drum-and-bass-riffs-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "f2ba2e3a13160810c20845aa5269a801598bd9254732b861bbdfb2cb80069acb",
+      "errors": []
+    },
+    {
+      "path": "midi/z4402-half-time-drum-and-bass-riffs-variation/z4402-half-time-drum-and-bass-riffs-variation-combined.mid",
+      "bytes": 5688,
+      "sha256": "a32a44dece37839c092e41ea6f579aa1c30098b1c4b15332501baf748cb34f52",
+      "errors": []
+    },
+    {
+      "path": "midi/z4403-half-time-drum-and-bass-riffs-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "eaa9721568edd92ea0b048aa2179f3e197b22759e8200159706f6921c2d29424",
+      "errors": []
+    },
+    {
+      "path": "midi/z4403-half-time-drum-and-bass-riffs-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "1be8ed4435c41ca66f5cd19f60b58e086e3368f9b23d0ebbf8704efd487c4da6",
+      "errors": []
+    },
+    {
+      "path": "midi/z4403-half-time-drum-and-bass-riffs-contrast/drums.mid",
+      "bytes": 2674,
+      "sha256": "8d5021ff590e39a02a543a986c853ffba9f419fe990ddf793023732be3315cc0",
+      "errors": []
+    },
+    {
+      "path": "midi/z4403-half-time-drum-and-bass-riffs-contrast/principal_motif.mid",
+      "bytes": 748,
+      "sha256": "ca809f20cb6e99125fc896cfbb5e1a56343459bf49b13577918938bd2af7679c",
+      "errors": []
+    },
+    {
+      "path": "midi/z4403-half-time-drum-and-bass-riffs-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "8e51e1f6479b3659d7f03cdff713e3860f609cc10c1073a179ad5f8b34cc97f0",
+      "errors": []
+    },
+    {
+      "path": "midi/z4403-half-time-drum-and-bass-riffs-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "95e52c119ce91810274b2718e27b9873e3150c089df3c046e684b4c12f4f2680",
+      "errors": []
+    },
+    {
+      "path": "midi/z4403-half-time-drum-and-bass-riffs-contrast/z4403-half-time-drum-and-bass-riffs-contrast-combined.mid",
+      "bytes": 5658,
+      "sha256": "cbd9d84c7f34c19b73d109d37f5d779692faf37517e2e2087b9a2d6b514323fc",
+      "errors": []
+    },
+    {
+      "path": "midi/z4404-half-time-drum-and-bass-riffs-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "c09081ffeb44936c4b9842324c0ba074a7c980209647311688f88ecd7456a81c",
+      "errors": []
+    },
+    {
+      "path": "midi/z4404-half-time-drum-and-bass-riffs-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "127c95823671046f15b86420f81be500429be0f612be7ce998cde869e2781e8e",
+      "errors": []
+    },
+    {
+      "path": "midi/z4404-half-time-drum-and-bass-riffs-return/drums.mid",
+      "bytes": 2674,
+      "sha256": "8d5021ff590e39a02a543a986c853ffba9f419fe990ddf793023732be3315cc0",
+      "errors": []
+    },
+    {
+      "path": "midi/z4404-half-time-drum-and-bass-riffs-return/principal_motif.mid",
+      "bytes": 748,
+      "sha256": "4df468500c094c2182c7321d2fad9b13546514801748d7793b2e92991baac997",
+      "errors": []
+    },
+    {
+      "path": "midi/z4404-half-time-drum-and-bass-riffs-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "fb4463ee6c2a3a3f999c0e5faaaa2eeb61632eb7ac824690af89f5cfcba5e8a1",
+      "errors": []
+    },
+    {
+      "path": "midi/z4404-half-time-drum-and-bass-riffs-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "b9834ba5d973d2c46c9a7d722355e51bcec746534224ee850d78297bd8f4291b",
+      "errors": []
+    },
+    {
+      "path": "midi/z4404-half-time-drum-and-bass-riffs-return/z4404-half-time-drum-and-bass-riffs-return-combined.mid",
+      "bytes": 5658,
+      "sha256": "3c1fd92400c32c430e5602bef2e741c62d1adce1871fe9fa3249123cb6d955d3",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

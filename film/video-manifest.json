@@ -1,0 +1,26 @@
+{
+  "title": "Half-Time Drum and Bass Riffs",
+  "study": "z4401",
+  "bpm": 174,
+  "source_audio": "preview/half-time-drum-and-bass-riffs-simple-synth-preview.mp3",
+  "source_audio_sha256": "86f64196a7b2f8377a38a462fb4b3391b97875276a1a461ccba373dd07300543",
+  "source_midi": "midi/z4401-half-time-drum-and-bass-riffs-opening/z4401-half-time-drum-and-bass-riffs-opening-combined.mid",
+  "source_midi_sha256": "2d61ce488dd2a4a5e92d5a8fbb285ddd8b950526c50d36ebf359c26869dac2ba",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "4b95e5c49d49c5351942e36098fae03b32cbe2eecda4e0a2f8bacffb3b4feeac",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "0e80479580a89580d85c094223b82fd1d34f292f207cb6bc3e62469904e2cb7e",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "92f8cdf25b1a58c225514c230aaf807710125f8f59684d3a0e434a5cb18a6e0b",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
