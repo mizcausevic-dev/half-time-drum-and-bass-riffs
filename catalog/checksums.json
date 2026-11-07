@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/half-time-drum-and-bass-riffs-midi.zip",
-      "bytes": 31806,
-      "sha256": "61e7b290a4019ac8039934da5091e8c46a1ce79b1a69070c8b2d6150a896175b"
+      "bytes": 32793,
+      "sha256": "7318be01205c395c7edfb339097cf669b2fc6a29810ee7e39a57300cf7bc7d94"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10140,
-      "sha256": "160024429e3e114804d24b234c8d8788ef345a260f79f33e32ba354d7712f8d8"
+      "bytes": 10330,
+      "sha256": "3726c763893622d30a47990fd8b7fd5b7925c85f39228edc5aa785b4ab04fb1e"
     },
     {
       "path": "midi/z4401-half-time-drum-and-bass-riffs-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "3c1fd92400c32c430e5602bef2e741c62d1adce1871fe9fa3249123cb6d955d3"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/half-time-drum-and-bass-riffs-simple-synth-preview.mp3",
       "bytes": 1072736,
       "sha256": "86f64196a7b2f8377a38a462fb4b3391b97875276a1a461ccba373dd07300543"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4033,
-      "sha256": "71d4eea916f515aafb2ef86238ef3a9a572d58f58da8b8e6fab765cdc4cec7ea"
+      "bytes": 4148,
+      "sha256": "5d033984da0439871f07f84d0c6f2bb6cb22bb545d892dce27d4e0adbd66b895"
     },
     {
       "path": "social/instagram/caption.txt",
